@@ -31,11 +31,11 @@ export default function Menu() {
       <div className="bg-black text-white py-10">
         <div className="container mx-auto flex flex-col md:flex-row items-start">
           {/* Left Image Section */}
-          <div className="w-full md:w-1/2">
+          <div className="w-full md:w-1/2 flex justify-center">
             <img
-              src="/image14.png" 
+              src="/image14.png"
               alt="Starter Menu"
-              className="w-full h-auto rounded-lg"
+              className="w-full max-w-md h-auto rounded-lg shadow-lg" // سائز کنٹرول کرنے کے لیے کلاسز
             />
           </div>
   
