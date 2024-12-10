@@ -50,7 +50,7 @@ const FoodCategory = () => {
           {/* Food Item 4 */}
           <div className="relative bg-white rounded-lg overflow-hidden shadow-lg">
             <img
-              src="/image9.png" // Replace with your image path
+              src="/image9.png"
               alt="Donut Dish"
               className="w-full h-56 object-cover"
             />
